@@ -125,7 +125,7 @@ align-items: center;
   margin: 10px;
   margin-top: 10px;
   padding: 10px;
-  box-shadow: 0px 0px 20px black;
+  box-shadow: 0px 0px 10px black;
 }
 
 #others{
@@ -140,7 +140,7 @@ align-items: center;
   margin: 10px;
   margin-top: 10px;
   padding: 10px;
-  box-shadow: 0px 0px 20px black;
+  box-shadow: 0px 0px 10px black;
 }
 
 #others #other{
